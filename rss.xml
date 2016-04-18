@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kate.schutt.art]]></title>
         <description><![CDATA[kate.schutt.art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kate-schutt-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 12:12:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 12:14:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kate-schutt-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0796bb4d-8a98-4e26-827c-89040adfffa4.jpg">]]></description>
+            <link>https://thegrid.ai/kate-schutt-art/d8bde84d-4b1f-4e5e-a8ec-f2f3f6395bc5/index.html</link>
+            <guid isPermaLink="false">d8bde84d-4b1f-4e5e-a8ec-f2f3f6395bc5</guid>
+            <pubDate>Mon, 18 Apr 2016 12:13:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04b33458-42f1-4a87-8c88-4b7b9820b036.jpg">]]></description>
-            <link>undefinede37de8ec-dcf6-44ca-92b5-a2a9ed3263a7/index.html</link>
+            <link>https://thegrid.ai/kate-schutt-art/e37de8ec-dcf6-44ca-92b5-a2a9ed3263a7/index.html</link>
             <guid isPermaLink="false">e37de8ec-dcf6-44ca-92b5-a2a9ed3263a7</guid>
             <pubDate>Mon, 18 Apr 2016 12:12:16 GMT</pubDate>
         </item>
